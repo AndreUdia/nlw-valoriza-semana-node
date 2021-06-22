@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "typescript": "^4.3.4"
+  },
+  "name": "nlw-valoriza-semana-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cabomaldade/nlw-valoriza-semana-node.git",
+  "license": "MIT"
+}
